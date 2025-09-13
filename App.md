@@ -13,10 +13,10 @@
 - Chat Whatsapp Tanda Terima Pembayaran
 
 # Manajemen Uang Jajan Kantin
-- 
+- Crud
 
 # Laporan Keuangan
-- Transaksi
+- Transaksi : 1 File, 1 Tahun, nama sheet = nama bulan
 - Jurnal Umum
 
 # Pull, Push, Update Web
